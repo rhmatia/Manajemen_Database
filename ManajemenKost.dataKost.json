@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "682423ead19b1973ca910039"
+  },
+  "nama": "Kos Mawar",
+  "alamat": "Jl. Pelita No. 2",
+  "harga": 500000,
+  "fasilitas": [
+    "WiFi",
+    "Kamar Mandi Dalam",
+    "Lemari"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682423ead19b1973ca91003a"
+  },
+  "nama": "Kos Melati",
+  "alamat": "Jl. Bunga No. 10",
+  "harga": 450000,
+  "fasilitas": [
+    "WiFi",
+    "Kipas Angin"
+  ]
+}]
